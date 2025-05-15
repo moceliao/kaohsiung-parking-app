@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Kaohsiung Parking App",
+    "slug": "kaohsiung-parking-app",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": ["android", "ios", "web"]
+  }
+}
